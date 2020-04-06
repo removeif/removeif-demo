@@ -11079,7 +11079,7 @@ footer.footer .level-end .field {
   color: rgba(35,209,96,0.678) !important;
 }
 .button.is-small {
-  border-radius: 20px;
+  border-radius: 2px;
 }
 a.navbar-item:focus,
 .navbar-link:focus,
@@ -11699,6 +11699,16 @@ hr {
 .night .g-ads-y,
 .night .google-auto-placed {
   filter: brightness(0.6) !important;
+}
+.index-category-tag {
+  margin-bottom: 1rem;
+}
+.index-category-tag .level-item {
+  display: unset;
+}
+.index-category-tag .button.is-small {
+  border-radius: 20px;
+  margin-bottom: 4px;
 }
 .ml-0,
 .mx-0 {
