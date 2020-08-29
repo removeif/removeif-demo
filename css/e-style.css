@@ -1,0 +1,13 @@
+body {
+  background: url("https://cdn.jsdelivr.net/gh/removeif/removeif-demo@master/img/background.png");
+}
+.night .navbar,
+.night footer.footer,
+.night .card {
+  background-color: rgba(21,19,19,0.678);
+}
+@media screen and (max-width: 768px) {
+  .g-ads-x {
+    display: block;
+  }
+}
