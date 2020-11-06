@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://removeif.github.io/removeif-demo/posts/a49f841a/</loc>
+    <lastmod>2020-11-06</lastmod>
+  </url>  <url>
     <loc>https://removeif.github.io/removeif-demo/posts/1a54ada2/</loc>
     <lastmod>2020-04-19</lastmod>
   </url>  <url>
@@ -44,9 +47,6 @@
     <lastmod>2020-03-19</lastmod>
   </url>  <url>
     <loc>https://removeif.github.io/removeif-demo/posts/b81fa239/</loc>
-    <lastmod>2020-03-19</lastmod>
-  </url>  <url>
-    <loc>https://removeif.github.io/removeif-demo/posts/a49f841a/</loc>
     <lastmod>2020-03-19</lastmod>
   </url>
 </urlset>

@@ -2,30 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://removeif.github.io/posts/a49f841a/</loc>
+    
+    <lastmod>2020-11-06T02:02:32.852Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://removeif.github.io/album/index.html</loc>
+    
+    <lastmod>2020-11-06T02:00:14.386Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://removeif.github.io/media/index.html</loc>
     
-    <lastmod>2020-08-06T08:35:11.786Z</lastmod>
+    <lastmod>2020-11-06T01:59:05.544Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://removeif.github.io/friend/index.html</loc>
     
-    <lastmod>2020-08-06T08:35:11.785Z</lastmod>
+    <lastmod>2020-11-06T01:58:51.478Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://removeif.github.io/about/index.html</loc>
+    <loc>https://removeif.github.io/message/index.html</loc>
     
-    <lastmod>2020-08-06T08:35:11.785Z</lastmod>
+    <lastmod>2020-11-06T01:58:39.210Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://removeif.github.io/self-talking/index.html</loc>
     
-    <lastmod>2020-04-19T10:58:42.635Z</lastmod>
+    <lastmod>2020-11-06T01:58:25.423Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://removeif.github.io/about/index.html</loc>
+    
+    <lastmod>2020-11-06T01:58:11.253Z</lastmod>
     
   </url>
   
@@ -33,20 +54,6 @@
     <loc>https://removeif.github.io/posts/1a54ada2/</loc>
     
     <lastmod>2020-04-19T10:58:42.634Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://removeif.github.io/album/index.html</loc>
-    
-    <lastmod>2020-03-19T10:08:55.752Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://removeif.github.io/message/index.html</loc>
-    
-    <lastmod>2020-03-19T10:08:55.746Z</lastmod>
     
   </url>
   
@@ -138,13 +145,6 @@
     <loc>https://removeif.github.io/posts/945e951b/</loc>
     
     <lastmod>2020-03-19T10:08:55.739Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://removeif.github.io/posts/a49f841a/</loc>
-    
-    <lastmod>2020-03-19T10:08:55.738Z</lastmod>
     
   </url>
   
